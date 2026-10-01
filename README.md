@@ -1,4 +1,4 @@
-# Landing page de beleza
+# Estúdio Zenia Santos
 
 Landing page responsiva em Vue 3, Composition API, Vite e Tailwind CSS v4.
 
