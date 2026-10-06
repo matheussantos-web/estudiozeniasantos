@@ -8,10 +8,10 @@ export const site = {
   salon: 'Estudio Zenia Santos',
   whatsapp: '5522981247854',
   phoneDisplay: '(22) 98124-7854',
-  address: 'Avenida das Flores, Rua sem asfalto, 50 - Âncora',
+  address: 'Avenidas Das Flores, Rua Sem Asfalto, N° 50 - Ancora, Rio das Ostras - RJ, 28899-419',
   city: 'Rio das Ostras - RJ',
   hours: 'Segunda a sábado, com horário marcado',
-  mapQuery: 'Avenida das Flores, Rua sem asfalto, 50 - Âncora, Rio das Ostras - RJ',
+  mapQuery: 'Avenidas Das Flores, Rua Sem Asfalto, N° 50 - Ancora, Rio das Ostras - RJ',
 }
 
 export const services = [
